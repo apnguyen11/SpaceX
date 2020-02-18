@@ -1,0 +1,1 @@
+Project with purpose of practicing to use GraphQL
